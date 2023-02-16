@@ -1,0 +1,21 @@
+.Social_Container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social_nav_sec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Social_icons {
+    margin-left: 8%;
+    display: flex;
+    align-items: center;
+}
+
+.Social_icons a {
+    margin: 0 5%;
+}
